@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "Starseeker",
+  "base_artist": "AKA、LEVEL NINE、Cosmograph",
+  "createdAt": "2025-12-01T17:03:06.672923Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Starseeker",
+      "artist": "Ihlo",
+      "has_synced": true,
+      "path": "select/01_Starseeker_Ihlo.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Starseeker",
+      "artist": "Time, The Valuator",
+      "has_synced": false,
+      "path": "select/02_Starseeker_Time,_The_Valuator.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Starseeker",
+      "artist": "Skeletoon",
+      "has_synced": false,
+      "path": "select/03_Starseeker_Skeletoon.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Starseeker",
+      "artist": "Mezsiah",
+      "has_synced": false,
+      "path": "select/04_Starseeker_Mezsiah.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "STAR SEEKER",
+      "artist": "A.B.C-Z",
+      "has_synced": false,
+      "path": "select/pl_01_STAR_SEEKER_A.B.C-Z.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Star Seeker",
+      "artist": "A.B.C-Z",
+      "has_synced": false,
+      "path": "select/pl_02_Star_Seeker_A.B.C-Z.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "Star Seeker",
+      "artist": "A.B.C-Z",
+      "has_synced": false,
+      "path": "select/pl_03_Star_Seeker_A.B.C-Z.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "Star Seeker (Remix ver.)",
+      "artist": "A.B.C-Z",
+      "has_synced": false,
+      "path": "select/pl_04_Star_Seeker_(Remix_ver.)_A.B.C-Z.txt"
+    }
+  ]
+}
